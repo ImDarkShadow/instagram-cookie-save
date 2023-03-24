@@ -1,6 +1,6 @@
 {
   "name": "@pritamdas/instagram-cookie-save",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package to save cookies from instagram",
   "main": "index.js",
   "type": "module",
