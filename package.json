@@ -1,0 +1,30 @@
+{
+  "name": "@pritamdas/instagram-cookie-save",
+  "version": "1.0.0",
+  "description": "a package to save cookies from instagram",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImDarkShadow/instagram-cookie-save.git"
+  },
+  "keywords": [
+    "instagram",
+    "scrape",
+    "instagram-tools",
+    "cookies",
+    "api"
+  ],
+  "author": "Pritam Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImDarkShadow/instagram-cookie-save/issues"
+  },
+  "homepage": "https://github.com/ImDarkShadow/instagram-cookie-save#readme",
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  }
+}
